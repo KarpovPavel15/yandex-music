@@ -6,7 +6,7 @@ export default class Header extends Component {
             <header className="app-header">
                 <ul className="header-menu">
                     <li>
-                        logo
+                        logoYandex
                     </li>
                     <li>
                         <input/>
